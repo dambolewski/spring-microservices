@@ -1,0 +1,10 @@
+services:
+  db:
+    image: mysql
+    container_name: mysql-order
+    environment:
+      MYSQL_ROOT_PASSWORD: adminadmin
+      MYSQL_DATABASE: order
+    ports:
+      - "3309:3306"
+    restart: unless-stopped
