@@ -47,7 +47,6 @@ class OrderServiceApplicationTests {
     private ObjectMapper objectMapper;
     @Autowired
     private OrderRepository orderRepository;
-
     @DynamicPropertySource
     static void setProperties(DynamicPropertyRegistry dynamicPropertyRegistry) {
         dynamicPropertyRegistry.add("spring.datasource.url", mySQLContainer::getJdbcUrl);
