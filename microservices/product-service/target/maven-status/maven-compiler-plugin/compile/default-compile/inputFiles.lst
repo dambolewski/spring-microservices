@@ -1,0 +1,7 @@
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/product-service/src/main/java/com/dambol/productservice/controller/ProductController.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/product-service/src/main/java/com/dambol/productservice/ProductServiceApplication.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/product-service/src/main/java/com/dambol/productservice/model/Product.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/product-service/src/main/java/com/dambol/productservice/dto/ProductRequest.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/product-service/src/main/java/com/dambol/productservice/dto/ProductResponse.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/product-service/src/main/java/com/dambol/productservice/repository/ProductRepository.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/product-service/src/main/java/com/dambol/productservice/service/ProductService.java

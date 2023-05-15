@@ -1,0 +1,6 @@
+com/dambol/inventoryservice/service/InventoryService.class
+com/dambol/inventoryservice/controller/InventoryController.class
+com/dambol/inventoryservice/model/Inventory$InventoryBuilder.class
+com/dambol/inventoryservice/model/Inventory.class
+com/dambol/inventoryservice/repository/InventoryRepository.class
+com/dambol/inventoryservice/InventoryServiceApplication.class

@@ -1,0 +1,8 @@
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/order-service/src/main/java/com/dambol/orderservice/model/Order.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/order-service/src/main/java/com/dambol/orderservice/dto/OrderLineItemsDto.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/order-service/src/main/java/com/dambol/orderservice/service/OrderService.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/order-service/src/main/java/com/dambol/orderservice/dto/OrderRequest.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/order-service/src/main/java/com/dambol/orderservice/model/OrderLineItems.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/order-service/src/main/java/com/dambol/orderservice/controller/OrderController.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/order-service/src/main/java/com/dambol/orderservice/repository/OrderRepository.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/order-service/src/main/java/com/dambol/orderservice/OrderServiceApplication.java

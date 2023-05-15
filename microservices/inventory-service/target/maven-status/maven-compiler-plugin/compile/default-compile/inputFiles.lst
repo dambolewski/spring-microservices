@@ -1,0 +1,5 @@
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/inventory-service/src/main/java/com/dambol/inventoryservice/controller/InventoryController.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/inventory-service/src/main/java/com/dambol/inventoryservice/model/Inventory.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/inventory-service/src/main/java/com/dambol/inventoryservice/InventoryServiceApplication.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/inventory-service/src/main/java/com/dambol/inventoryservice/repository/InventoryRepository.java
+/Users/damianbolewski/IdeaProjects/Spring-microservices/microservices/inventory-service/src/main/java/com/dambol/inventoryservice/service/InventoryService.java

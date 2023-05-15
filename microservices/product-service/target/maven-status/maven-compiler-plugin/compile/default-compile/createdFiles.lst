@@ -1,0 +1,10 @@
+com/dambol/productservice/model/Product$ProductBuilder.class
+com/dambol/productservice/ProductServiceApplication.class
+com/dambol/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/dambol/productservice/dto/ProductResponse.class
+com/dambol/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/dambol/productservice/model/Product.class
+com/dambol/productservice/service/ProductService.class
+com/dambol/productservice/controller/ProductController.class
+com/dambol/productservice/dto/ProductRequest.class
+com/dambol/productservice/repository/ProductRepository.class
